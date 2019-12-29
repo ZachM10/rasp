@@ -7,7 +7,7 @@
 #@reboot sh /home/pi/PiClock/startup.sh
 
 #
-cd $HOME/PiClock
+cd $HOME/rasp
 
 #
 if [ "$DISPLAY" = "" ]
