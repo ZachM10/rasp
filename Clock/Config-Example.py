@@ -14,11 +14,11 @@ background = 'images/clockbackground-background2.jpg'
 squares1 = 'images/squares1-white.png'
 squares2 = 'images/squares2-white.png'
 icons = 'icons-custom'
-textcolor = '#bef'
-clockface = 'images/clockface3.png'
-hourhand = 'images/hourhand.png'
-minhand = 'images/minhand.png'
-sechand = 'images/sechand.png'
+textcolor = '#dee0e0'
+clockface = 'images/clockface3-white.png'
+hourhand = 'images/hourhand-white.png'
+minhand = 'images/minhand-white.png'
+sechand = 'images/sechand-white.png'
 
 # SlideShow
 useslideshow = 0             # 1 to enable, 0 to disable
@@ -29,7 +29,7 @@ slide_bg_color = "#000"       # https://htmlcolorcodes.com/  black #000
 digital = 0                 # 1 = Digtal Clock, 0 = Analog Clock
 
 # Goes with light blue config (like the default one)
-digitalcolor = "#50CBEB"
+digitalcolor = "#dee0e0"
 digitalformat = "{0:%I:%M\n%S %p}"  # Format of the digital clock face
 digitalsize = 200
 
